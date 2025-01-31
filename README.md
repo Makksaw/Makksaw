@@ -1,3 +1,5 @@
+<img src='https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952ka71nemfr85h6v2to29u6iyjdlqep73yhjiwbdif&ep=v1_gifs_search&rid=giphy.gif&ct=g' width='100%'>
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true%random=false&width=435&lines=Hello+World!;I+am+Maks)](https://git.io/typing-svg)
 
 <br>
