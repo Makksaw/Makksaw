@@ -1,10 +1,25 @@
-<img src='https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952ka71nemfr85h6v2to29u6iyjdlqep73yhjiwbdif&ep=v1_gifs_search&rid=giphy.gif&ct=g' width='100%'>
+<div align="center">
+   <h2 align="center">Yo 👋, I'm Maks Razumovsky 👨‍💻</h2>
+</div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true%random=false&width=435&lines=Hello+World!;I+am+Maks)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true%random=false&width=435&lines=Full-Stack+Developer;Love+Open+Source+Apps;Based+in+Belgium)](https://git.io/typing-svg)
 
-<br>
+```javascript
+class Developer {
+   constructor() {
+      this.name = "Maks Razumovskyi"
+      this.about = "Applied Computer Science student building real-world software and exploring new technologies"
+      this.techStack = ["HTML", "CSS", "JavaScript", "React JS", "NodeJS", "ExpressJS", "Python"]
+   }
 
-**I'm Full-Stack Developer from Ukraine.**
+   bio() {
+      console.log(`Hello, my name is ${this.name}\n${this.about}\nMy Stack: ${this.techStack.join(', ')}`)
+   }
+}
+
+const me = new Developer()
+me.bio()
+```
 
 <br>
 <div align="center">
@@ -48,7 +63,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/makksaw)
 
 ![](https://komarev.com/ghpvc/?username=Makksaw)
-
-
- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer">
 </div>
