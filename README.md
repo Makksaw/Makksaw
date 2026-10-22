@@ -2,7 +2,7 @@
    <h2 align="center">Yo 👋, I'm Maks Razumovsky 👨‍💻</h2>
 </div>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true%random=false&width=435&lines=Full-Stack+Developer;Love+Open+Source+Apps;Based+in+Belgium)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true%random=false&width=435&lines=Full-Stack+Developer;Studying+Computer+Science;Based+in+Belgium)](https://git.io/typing-svg)
 
 ```javascript
 class Developer {
